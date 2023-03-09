@@ -1,6 +1,13 @@
 ---
 title: Sweet Potato Salad
 ---
+---
+title: Sweet Potato Salad
+date: 2023-03-05 00:00:00 +0000
+categories: []
+tags: []    
+---
+
 
 
 # Recipe for Sweet Potato Salad aka. The Salad That Made Michelle Believe in Meal Salads
