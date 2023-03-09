@@ -1,8 +1,5 @@
 ---
 title: Sweet Potato Salad
----
----
-title: Sweet Potato Salad
 date: 2023-03-05 00:00:00 +0000
 categories: []
 tags: []    
